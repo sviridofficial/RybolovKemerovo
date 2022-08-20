@@ -9,6 +9,8 @@ Desktop-приложение ["Рыболов-Кемерово"](https://www.ryb
 - Обновление и передача остатков товаров на складе на маркетплейсы
 - Парсинг данных сайта
 - Автоматическая упаковка данных в Excel-файл
+
+
 ![Untitled](https://user-images.githubusercontent.com/80503802/185735632-1b9d757e-882d-4915-8904-312e7fed888f.png)
 
 ![wdwqdqd](https://user-images.githubusercontent.com/80503802/185735640-b782f1ad-fb91-411d-bb3a-d29dd407ccb2.png)
