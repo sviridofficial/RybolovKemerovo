@@ -1,0 +1,5 @@
+ozonClientId = "..."
+ozonApiKey = "..."
+wildberriesApiKey = "..."
+yandexClientId = "..."
+yandexOauthToken = "..."
